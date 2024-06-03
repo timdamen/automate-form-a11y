@@ -2,7 +2,7 @@
 
 [link to full guide](https://www.timdamen.blog/blog/automated-form-accessibility-testing)
 
-In this repo I show how to automatically test certain parts of form accessibility with{' '}
+In this repo I show how to automatically test certain parts of form accessibility with
 <a href="https://testing-library.com/" target="_blank" rel="noopener noreferrer">`@testing-library`</a>. This tutorial is an extension on a talk I gave at <a href="https://frontendnation.com/" target="_blank" rel="noopener noreferrer">FrontendNation</a>. If you did not attend the talk, you can still follow along without any problems. I will be using
 [Vue.js](https://vuejs.org/) in this tutorial, but the principles can be applied to any front-end framework.
 
