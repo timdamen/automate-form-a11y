@@ -149,7 +149,7 @@ body * {
 .card {
   position: relative;
   max-width: var(--theme-width);
-  min-width: 500px;
+  width: 100%;
   padding: 24px 16px;
   border: 1px solid var(--theme-primary);
   background-color: var(--theme-bg_1);
